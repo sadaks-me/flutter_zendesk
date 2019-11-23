@@ -1,0 +1,21 @@
+name: flutter_zendesk
+description: A Zendesk Flutter plugin.
+version: 1.0.2
+author:  "Sadak & Kishan <sadak@nowappstech.com>"
+homepage: https://github.com/sad1996/flutter_zendesk
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: com.nowappstech.flutter_zendesk
+    pluginClass: FlutterZendeskPlugin
