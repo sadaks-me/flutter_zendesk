@@ -1,16 +1,25 @@
-# example
+# flutter_zendesk
 
-A new Flutter application.
+A Zendesk Support Flutter plugin.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To use this plugin, add `flutter_zendesk` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
-A few resources to get you started if this is your first Flutter project:
+Get the [Crendentials](https://www.zendesk.com) for your Zendesk support project.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Import `package:flutter_zendesk/flutter_zendesk.dart`, and initiate `Zendesk Support` with your credentials.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
+### Integration
+
+```dart
+      await FlutterZendesk.initiateZendesk(params: {
+        "appId": "YOUR_APP_ID",
+        "clientId": "CLIENT_ID",
+        "url": "YOUR_URL",
+      });
+```
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
