@@ -49,7 +49,7 @@ packages:
       name: cupertino_icons
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.2"
+    version: "1.0.3"
   fake_async:
     dependency: transitive
     description:
@@ -68,7 +68,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_zendesk:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       path: ".."
       relative: true

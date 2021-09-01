@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:flutter/services.dart';
 import 'package:flutter_zendesk/flutter_zendesk.dart';
 
@@ -28,7 +27,7 @@ class _HomeState extends State<Home> {
       "url": "YOUR_URL",
     };
     try {
-      String result =
+      String? result =
           await FlutterZendesk.initiateZendesk(params: Map.from(param));
       if (result != null) {
         print("Platform Result $result");

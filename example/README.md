@@ -1,47 +1,8 @@
-# flutter_zendesk_example
+# example
 
-Demonstrates how to use the flutter_zendesk plugin.
+A new Flutter application.
 
 ## Getting Started
-
-```dart
-      class MyApp extends StatefulWidget {
-        @override
-        _MyAppState createState() => _MyAppState();
-      }
-      
-      class _MyAppState extends State<MyApp> {
-        initPlugin() async {
-          try {
-            await FlutterZendesk.initiateZendesk(params: {
-              "appId": "YOUR_APP_ID",
-              "clientId": "CLIENT_ID",
-              "url": "YOUR_URL",
-            });
-          } on PlatformException {
-            print('Failed to initiate zendesk.');
-          }
-        }
-      
-        @override
-        Widget build(BuildContext context) {
-          return MaterialApp(
-            home: Scaffold(
-              appBar: AppBar(
-                title: const Text('Zendesk App'),
-              ),
-              body: Center(
-                child: Text('ZENDESK'),
-              ),
-              floatingActionButton: FloatingActionButton(
-                child: Icon(Icons.headset_mic),
-                onPressed: initPlugin,
-              ),
-            ),
-          );
-        }
-      }
-```
 
 This project is a starting point for a Flutter application.
 
