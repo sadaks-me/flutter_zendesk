@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aa057c0-0820-4a32-971d-cba41b4fbe88" name="Default Changelist" comment="" />
+    <list default="true" id="7aa057c0-0820-4a32-971d-cba41b4fbe88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
@@ -29,7 +52,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/example/ios/Flutter" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -79,60 +102,6 @@
     <MESSAGE value="temp patch" />
     <MESSAGE value="flutter Null safety migration.[code tested in android and IOS]" />
     <option name="LAST_COMMIT_MESSAGE" value="flutter Null safety migration.[code tested in android and IOS]" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="0" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630482520185">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="0" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1630482520185" />
-    <state x="185" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630403058571">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="185" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1630403058571" />
-    <state x="78" y="130" key="CommitChangelistDialog2" timestamp="1630485158113">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="78" y="130" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1630485158113" />
-    <state x="0" y="114" width="1344" height="820" key="DiffContextDialog" timestamp="1630403377119">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="0" y="114" width="1344" height="820" key="DiffContextDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1630403377119" />
-    <state x="210" y="408" key="Github.CreatePullRequestDialog" timestamp="1630485426481">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="210" y="408" key="Github.CreatePullRequestDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1630485426481" />
-    <state x="334" y="453" key="Github.Dialog.Accounts.Choose" timestamp="1630485312226">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="334" y="453" key="Github.Dialog.Accounts.Choose/0.25.1680.1025@0.25.1680.1025" timestamp="1630485312226" />
-    <state width="956" height="274" key="GridCell.Tab.0.bottom" timestamp="1630485049435">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="956" height="274" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1630485049435" />
-    <state width="956" height="274" key="GridCell.Tab.0.center" timestamp="1630485049434">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="956" height="274" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1630485049434" />
-    <state width="956" height="274" key="GridCell.Tab.0.left" timestamp="1630485049433">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="956" height="274" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1630485049433" />
-    <state width="956" height="274" key="GridCell.Tab.0.right" timestamp="1630485049434">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="956" height="274" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1630485049434" />
-    <state x="0" y="173" key="SettingsEditor" timestamp="1630265004992">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="0" y="173" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1630265004992" />
-    <state x="93" y="261" key="Vcs.Push.Dialog.v2" timestamp="1630485174348">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="93" y="261" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1630485174348" />
-    <state x="164" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1630309099970">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="164" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1630309099970" />
   </component>
   <component name="masterDetails">
     <states>
